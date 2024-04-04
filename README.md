@@ -16,7 +16,7 @@ Several preparatory steps were undertaken to streamline the analysis process:
 ## Data Enhancement
 To enrich the dataset and provide contextual insights, additional information about Product Managers (PMs) was integrated. PM data was extracted from an external Excel workbook and incorporated into the analysis environment for seamless reference.
 ## Related Files
-You can access the interactive dashboard and all the data for this project [here](https://docs.google.com/spreadsheets/d/1xmsid3vIiCTyb2dd40SbOCuM76v4I_bpegWnrOpExMc/edit?usp=drive_link).
+You can access the interactive dashboard and all the data for this project [here](https://drive.google.com/drive/folders/1QkLBM6xDxwZg4YiPD9_L8RDpvCV-7veh?usp=drive_link).
 
 ## Analysis Methodology
 The analysis journey commenced with the importation of the enriched dataset into Google Sheets, facilitating collaborative exploration and visualization. Pivot tables were instrumental in synthesizing complex data relationships and extracting actionable insights.
