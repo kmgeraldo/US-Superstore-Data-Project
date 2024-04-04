@@ -4,7 +4,7 @@
 In today's competitive business landscape, data analysis plays a pivotal role in driving informed decision-making and uncovering valuable insights. In this repository, we embark on a journey through a comprehensive analysis of sales data to unearth key trends and patterns, ultimately enabling strategic business optimization.
 
 ## Dataset Overview
-The dataset under examination comprises 9996 records, initially formatted within a single column and separated by "|". To facilitate analysis, the data was transformed into distinct columns using the Text to Columns feature. Additionally, data types for date-related columns were adjusted from General to Short Date format to enhance readability and analytical precision.
+The dataset under examination comprises 9996 records, initially formatted within a single column and separated by "|". To facilitate analysis, the data was transformed into distinct columns using the Text to Columns feature. Additionally, data types for date-related columns were adjusted from General to Short Date format to enhance readability and analytical precision. 
 
 ## Data Preparation
 Several preparatory steps were undertaken to streamline the analysis process:
@@ -15,6 +15,8 @@ Several preparatory steps were undertaken to streamline the analysis process:
 
 ## Data Enhancement
 To enrich the dataset and provide contextual insights, additional information about Product Managers (PMs) was integrated. PM data was extracted from an external Excel workbook and incorporated into the analysis environment for seamless reference.
+## Dashboard Link
+You can access the interactive dashboard for this project [here](https://docs.google.com/spreadsheets/d/1xmsid3vIiCTyb2dd40SbOCuM76v4I_bpegWnrOpExMc/edit?usp=sharing).
 
 ## Analysis Methodology
 The analysis journey commenced with the importation of the enriched dataset into Google Sheets, facilitating collaborative exploration and visualization. Pivot tables were instrumental in synthesizing complex data relationships and extracting actionable insights.
